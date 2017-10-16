@@ -31,7 +31,8 @@
                 "^com\\.parallels\\.desktop\\.console$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.vmware\\.proxyApp\\.",
-                "^com\\.parallels\\.winapp\\."
+                "^com\\.parallels\\.winapp\\.",
+                "^com\\.microsoft\\.rdc\\.mac$"
               ]
             }
           ]
@@ -63,7 +64,8 @@
                 "^com\\.parallels\\.desktop\\.console$",
                 "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                 "^com\\.vmware\\.proxyApp\\.",
-                "^com\\.parallels\\.winapp\\."
+                "^com\\.parallels\\.winapp\\.",
+                "^com\\.microsoft\\.rdc\\.mac$"
               ]
             }
           ]
